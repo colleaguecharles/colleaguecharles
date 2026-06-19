@@ -1,6 +1,6 @@
 <div align="center"> 
   
-##### <p align="center"> ![](https://komarev.com/ghpvc/?username=colleaguecharles&color=C22D0A&style=plastic&label=LCorp+'+s+Agents)
+##### <p align="center"> ![](https://komarev.com/ghpvc/?username=colleaguecharles&color=FFA500&style=plastic&label=Fellow+Colleagues)
 
 <img width="500" alt="image" src="https://static.wikia.nocookie.net/lobotomycorp/images/8/86/Containment_Unit.png/revision/latest?cb=20210304111501" />
 
